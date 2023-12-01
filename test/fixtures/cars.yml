@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  model: MyString
+  year: 1
+  color: MyString
+  transmossion: MyString
+  ac: false
+  max_capacity: 1
+  user_id: one
+
+two:
+  make: MyString
+  model: MyString
+  year: 1
+  color: MyString
+  transmossion: MyString
+  ac: false
+  max_capacity: 1
+  user_id: two
